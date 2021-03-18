@@ -1,0 +1,2 @@
+# noobmid.github.io
+blog
